@@ -30,3 +30,10 @@ Disable standard search:
 		),
 	),
 
+Hide missing patient demographics and forms:
+
+	'params' => array(
+		'hide_missing_demographics' => true,
+		'hide_patientsummary_forms'=> true,
+	),
+
