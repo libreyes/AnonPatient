@@ -1,4 +1,4 @@
-add-anon-patient
-================
+AnonPatient
+===========
 
-Add anonymous patient module
+Anonymous patient module
