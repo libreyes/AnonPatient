@@ -1,7 +1,7 @@
-add-anon-patient
-================
+AnonPatient
+===========
 
-Add anonymous patient module
+Anonymous patient module
 
 Config
 ------
@@ -29,3 +29,4 @@ Disable standard search:
 			'main' => array('position' => null),
 		),
 	),
+
