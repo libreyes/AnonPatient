@@ -16,7 +16,7 @@
 return array(
 	'params' => array(
 		'search_tabs' => array(
-			array(
+			'anon_patient' => array(
 				'title' => 'Anonymous patient search',
 				'url' => '/AnonPatient/default/search',
 				'position' => 1,
