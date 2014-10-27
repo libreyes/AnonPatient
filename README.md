@@ -24,7 +24,7 @@ Default to anon patient search:
 
 Disable standard search:
 
-	'params'=>array(
+	'params' => array(
 		'search_tabs' => array(
 			'main' => array('position' => null),
 		),
