@@ -55,4 +55,9 @@ class DefaultController extends \BaseController
 
 		$this->render('search', array('uuid' => $uuid, 'error' => $error));
 	}
+
+	public function actionAdd()
+	{
+		$this->render('add');
+	}
 }
